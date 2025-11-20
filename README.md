@@ -6,7 +6,6 @@
 # 📚 **Sumário**
 1. Introdução  
 2. Desenvolvimento  
-3. Resultados  
 
 ---
 
