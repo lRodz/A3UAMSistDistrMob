@@ -100,12 +100,3 @@ O tema também contribui academicamente para estudos relacionados a segurança e
 
 #### 🔹 API Externa
 - **Receita Federal (via BrasilAPI)**  
-
----
-
-## 🔗 **Repositório GitHub**
-📍 https://github.com/lRodz/A3UAMSistDistrMob
-
----
-
-# **3. Resultados**
